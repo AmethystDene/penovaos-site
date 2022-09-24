@@ -59,13 +59,14 @@
 
 .u-section-2 .u-btn-1 {
   border-style: none none solid;
-  margin: -28px auto 60px 276px;
+  margin: -27px auto 60px 333px;
   padding: 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-btn-1 {
-    margin-left: 76px;
+    margin-top: 20px;
+    margin-left: 133px;
   }
 }
 
