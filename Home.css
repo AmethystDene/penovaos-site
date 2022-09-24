@@ -47,8 +47,15 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin-bottom: 0;
-  margin-top: 20px;
+  margin: 19px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 19px auto 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 19px auto 0;
 }
 
 .u-section-2 .u-btn-1 {
@@ -58,12 +65,6 @@
   letter-spacing: 1px;
   box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
   font-weight: 700;
-  margin: -41px auto 60px 144px;
+  margin: 38px auto 60px;
   padding: 8px 36px 9px 35px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-btn-1 {
-    margin-left: 0;
-  }
 }
